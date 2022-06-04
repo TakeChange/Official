@@ -461,11 +461,7 @@ section .btntwo {
   box-sizing: border-box;
   font-family: "Poppins" , sans-serif;
 }
-body{
-  min-height: 100vh;
-  width: 100%;
- /* background:black; /*#EEECEB;*/*/
-}
+
 footer{
   position: fixed;
   background: black; /*#140B5C;*/
